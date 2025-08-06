@@ -20,5 +20,12 @@
     { "hakbun": 20250003, "irum":"박길동", "kor":70, "eng":60, "mat":50 },
     { "hakbun": 20250004, "irum":"최길동", "kor":60, "eng":50, "mat":40 },
     { "hakbun": 20250005, "irum":"이길동", "kor":100, "eng":90, "mat":80 }
+  ],
+  "question": [
+    { "id": 1, "irum":"홍길동", "title":"title1", "contents":"test1입니다.", "state":true, "date":"2024-05-21" },
+    { "id": 2, "irum":"홍길동", "title":"title2", "contents":"test2입니다.", "state":true, "date":"2024-05-21" },
+    { "id": 3, "irum":"홍길동", "title":"title3", "contents":"test3입니다.", "state":false, "date":"2024-05-22" },
+    { "id": 4, "irum":"홍길동", "title":"title4", "contents":"test4입니다.", "state":false, "date":"2024-05-23" },
+    { "id": 5, "irum":"홍길동", "title":"title5", "contents":"test5입니다.", "state":false, "date":"2024-05-26" }
   ]
 }
