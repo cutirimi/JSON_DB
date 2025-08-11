@@ -22,9 +22,9 @@
     { "id": 5, "hakbun": 20250005, "irum":"이길동", "kor":100, "eng":90, "mat":80 }
   ],
   "question": [
-    { "id": 1, "irum":"홍길동", "title":"title1", "contents":"test1입니다.", "date":"2024-05-21", "reply":"reply1" },
+    { "id": 1, "irum":"홍길동", "title":"title1", "contents":"test1입니다. test1입니다. test1입니다. test1입니다. test1입니다. test1입니다. test1입니다. test1입니다. test1입니다. test1입니다.", "date":"2024-05-21", "reply":"reply1" },
     { "id": 2, "irum":"홍길동", "title":"title2", "contents":"test2입니다.", "date":"2024-05-21", "reply":"reply2" },
-    { "id": 3, "irum":"홍길동", "title":"title3", "contents":"test3입니다.", "date":"2024-05-22", "reply":"" },
+    { "id": 3, "irum":"홍길동", "title":"title3", "contents":"test3입니다. test3입니다. test3입니다. test3입니다. test3입니다. test3입니다. test3입니다. test3입니다. test3입니다. test3입니다.", "date":"2024-05-22", "reply":"" },
     { "id": 4, "irum":"홍길동", "title":"title4", "contents":"test4입니다.", "date":"2024-05-23", "reply":"" },
     { "id": 5, "irum":"홍길동", "title":"title5", "contents":"test5입니다.", "date":"2024-05-26", "reply":"" }
   ]
