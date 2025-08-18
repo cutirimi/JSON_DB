@@ -21,13 +21,6 @@
     { "id": 4, "hakbun": 20250004, "irum":"최길동", "kor":60, "eng":50, "mat":40 },
     { "id": 5, "hakbun": 20250005, "irum":"이길동", "kor":100, "eng":90, "mat":80 }
   ],
-  "question": [
-    { "id": 1, "irum":"홍길동", "title":"title1", "contents":"test1입니다. test1입니다. test1입니다. test1입니다. test1입니다. test1입니다. test1입니다. test1입니다. test1입니다. test1입니다.", "date":"2024-05-21", "reply":"reply1" },
-    { "id": 2, "irum":"홍길동", "title":"title2", "contents":"test2입니다.", "date":"2024-05-21", "reply":"reply2" },
-    { "id": 3, "irum":"홍길동", "title":"title3", "contents":"test3입니다. test3입니다. test3입니다. test3입니다. test3입니다. test3입니다. test3입니다. test3입니다. test3입니다. test3입니다.", "date":"2024-05-22", "reply":"" },
-    { "id": 4, "irum":"홍길동", "title":"title4", "contents":"test4입니다.", "date":"2024-05-23", "reply":"" },
-    { "id": 5, "irum":"홍길동", "title":"title5", "contents":"test5입니다.", "date":"2024-05-26", "reply":"" }
-  ],
   "product": [
     { "id": "P001", "name": "프리미엄 키보드", "category": "컴퓨터 주변기기", "price": "₩150,000", "stock": 50 },
     { "id": "P002", "name": "4K 모니터", "category": "디스플레이", "price": "₩450,000", "stock": 25 }
