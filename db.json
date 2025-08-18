@@ -31,5 +31,9 @@
   "product": [
     { "id": "P001", "name": "프리미엄 키보드", "category": "컴퓨터 주변기기", "price": "₩150,000", "stock": 50 },
     { "id": "P002", "name": "4K 모니터", "category": "디스플레이", "price": "₩450,000", "stock": 25 }
+  ],
+  "customer": [
+    { "id": 1001, "name": "홍길동", "mail": "gildong@example.com", "signDate": "2023-01-15" },
+    { "id": 1002, "name": "이순신", "mail": "sunshin@example.com", "signDate": "2023-02-20" }
   ]
 }
