@@ -8,12 +8,6 @@
     { "id": 6, "title": "제목 6 입니다", "writer": "홍길동", "wdate": "2020-01-06" },
     { "id": 7, "title": "제목 7 입니다", "writer": "홍길동", "wdate": "2020-01-07" }
   ],
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" },
-    { "id": 2, "title": "my-json-server", "author": "typicode" },
-    { "id": 3, "title": "my-json-server", "author": "typicode" },
-    { "id": 4, "title": "my-json-server", "author": "typicode" }
-  ],
   "score": [
     { "id": 1, "hakbun": 20250001, "irum":"홍길동", "kor":90, "eng":80, "mat":70 },
     { "id": 2, "hakbun": 20250002, "irum":"김길동", "kor":80, "eng":70, "mat":60 },
@@ -24,6 +18,13 @@
   "product": [
     { "id": "P001", "name": "프리미엄 키보드", "category": "컴퓨터 주변기기", "price": "₩150,000", "stock": 50 },
     { "id": "P002", "name": "4K 모니터", "category": "디스플레이", "price": "₩450,000", "stock": 25 }
+  ],
+  "question": [
+    { "id": 1, "irum":"홍길동", "title":"title1", "contents":"test1입니다. test1입니다. test1입니다. test1입니다. test1입니다. test1입니다. test1입니다. test1입니다. test1입니다. test1입니다.", "date":"2024-05-21", "reply":"reply1" },
+    { "id": 2, "irum":"홍길동", "title":"title2", "contents":"test2입니다.", "date":"2024-05-21", "reply":"reply2" },
+    { "id": 3, "irum":"홍길동", "title":"title3", "contents":"test3입니다. test3입니다. test3입니다. test3입니다. test3입니다. test3입니다. test3입니다. test3입니다. test3입니다. test3입니다.", "date":"2024-05-22", "reply":"" },
+    { "id": 4, "irum":"홍길동", "title":"title4", "contents":"test4입니다.", "date":"2024-05-23", "reply":"" },
+    { "id": 5, "irum":"홍길동", "title":"title5", "contents":"test5입니다.", "date":"2024-05-26", "reply":"" }
   ],
   "customer": [
     { "id": 1001, "name": "홍길동", "mail": "gildong@example.com", "signDate": "2023-01-15" },
