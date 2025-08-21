@@ -9,12 +9,12 @@
     { "id": 7, "title": "제목 7 입니다", "writer": "홍길동", "wdate": "2020-01-07" }
   ],
   "score": [
-    { "id": 1, "hakbun": "20250001", "irum":"정예림", "kor":80, "eng":90, "mat":100 },
-    { "id": 2, "hakbun": "20250002", "irum":"최우식", "kor":70, "eng":100, "mat":87 },
-    { "id": 3, "hakbun": "20250003", "irum":"박서준", "kor":92, "eng":98, "mat":65 },
-    { "id": 4, "hakbun": "20250004", "irum":"이동욱", "kor":90, "eng":80, "mat":70 },
-    { "id": 5, "hakbun": "20250005", "irum":"유재석", "kor":100, "eng":51, "mat":47 },
-    { "id": 6, "hakbun": "20250006", "irum":"김영희", "kor":0, "eng":0, "mat":3 }
+    { "id": 1, "hakbun": 20250001, "irum":"정예림", "kor":80, "eng":90, "mat":100 },
+    { "id": 2, "hakbun": 20250002, "irum":"최우식", "kor":70, "eng":100, "mat":87 },
+    { "id": 3, "hakbun": 20250003, "irum":"박서준", "kor":92, "eng":98, "mat":65 },
+    { "id": 4, "hakbun": 20250004, "irum":"이동욱", "kor":90, "eng":80, "mat":70 },
+    { "id": 5, "hakbun": 20250005, "irum":"유재석", "kor":100, "eng":51, "mat":47 },
+    { "id": 6, "hakbun": 20250006, "irum":"김영희", "kor":0, "eng":0, "mat":3 }
   ],
   "product": [
     { "id": "P001", "name": "프리미엄 키보드", "category": "컴퓨터 주변기기", "price": "₩150,000", "stock": 50 },
